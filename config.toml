@@ -1,6 +1,7 @@
-baseURL = "http://localhost:1313"
+#baseURL = "http://localhost:1313"
+baseURL = "http://adaptiveprogrammer.com"
 languageCode = "en"
-title = "Hugo Blog"
+title = "Adaptive Programmer"
 theme = "hugo-nuo"
 enableRobotsTXT = true
 pygmentsuseclasses = true
@@ -8,13 +9,13 @@ PygmentsCodeFences = true
 canonifyurls = true
 
 # Disqus Username
-disqusShortname = "disqus_shortname"
+disqusShortname = "adaptive-programmer"
 
 # Google Analytics UA number
 googleAnalytics = "UA-XXXXXXXX-X"
 
 # Copyright of your post
-copyright = "© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you likes to quote or reproduce."
+copyright = "© Copyright 2017 - Adaptive Programmer - Owned and operated by Peter Puglisi. "
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
@@ -29,22 +30,35 @@ copyright = "© This post is licensed under a Creative Commons Attribution-NonCo
   identifier = "works"
   url = "https://github.com/laozhu"
 
+
+[[menu.main]]
+  name = "Recommended Courses"
+  weight = 20
+  identifier = "recommendedcourses"
+  url = "https://github.com/laozhu"
+
+[[menu.main]]
+  name = "Recommended Books"
+  weight = 20
+  identifier = "recommendedbooks"
+  url = "https://github.com/laozhu"
+
 # Add your own params here
 [params]
-  author = "Ritchie Zhu"
-  avatar = "/img/avatar.jpg"
-  seotitle = "Hugo Blog (SEO Version)"
-  subtitle = "~ Keep It Simple & Stupid ~"
-  description = "Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again."
+  author = "Peter Puglisi"
+  avatar = "/img/logo.png"
+  seotitle = "Adaptive Programmer - Modern Agile Transformation and Adaptive Software Engineering"
+  subtitle = "Learn. Adapt. Build. Thrive."
+  description = "A veteran software developer's blog about riding the wave of modern agile transformation. Bloggers mindset: Be happy and satisfied today and always be eager for more."
   paginate = 10
 
   # Choose your social networks
-  email = "name@domain.com"
-  github = "github_username"
-  twitter = "twitter_username"
-  linkedin = "linkedin_username"
-  weibo = "weibo_username"
-  wechat= "/img/qrcode.jpg" # Replace with your wechat qrcode image
+  email = "peter@peterpuglisi.com"
+  github = "peterpuglisi"
+  twitter = "puglisi_peter"
+  linkedin = "peterpuglisi"
+  # weibo = "weibo_username"
+  # wechat= "/img/qrcode.jpg" # Replace with your wechat qrcode image
   # facebook = "facebook_username"
   # google = "googlplus_id_number"
   # instagram = "instagram_username"
