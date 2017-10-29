@@ -11,6 +11,7 @@ canonifyurls = true
 # Disqus Username
 disqusShortname = "adaptive-programmer"
 
+
 # Google Analytics UA number
 googleAnalytics = "UA-XXXXXXXX-X"
 
