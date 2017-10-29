@@ -13,9 +13,7 @@ I'm in the business of educational video creation and course marketing so it's n
 
 ## Here's the video animation intro I created with Viddyoze
 
-{{% video
-  "/media/posts/viddyoze-logo-creation/pp-logo.mp4"
-%}}
+{{% video  "/media/posts/viddyoze-logo-creation/pp-logo.mp4" "" "" %}}
 
 Click the link [here](/out/viddyoze) to find more about this great app!
 
