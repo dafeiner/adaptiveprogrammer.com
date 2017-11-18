@@ -1,6 +1,6 @@
 ---
 title: "About"
-date: "2017-11-19"
+date: "2017-11-18"
 layout: "about"
 menu: "main"
 weight: 30
@@ -23,6 +23,5 @@ I chose the name of this blog to be AdaptiveProgrammer.com because "adaptive" ha
 * Being an `adaptive` developer - Life as a software developer is tough and it's important to constantly expand your skillset or become obsolete. I believe that new developers entering the industry today need to manage their careers and adopt a more "entrepreneurial" mindset. Trading time for money as a software developer is no longer a long-term sustainable plan especially when you consider the extra hours that need to be invested into maintaining a skillsets and keeping yoru skills in demand for years and years to come. 
 
 The #1 online training resource I recommened for professional developers is [Pluralsight](/out/pluralsight). Any serious developer should maintain a subscription and get into the habit of regularly updating their skills. If you scratch behind the surface of any "talented" software developer you know, I'll bet that person has invested time into becoming a better developer, either through technical books, online courses, reading blogs or through coding experimenation in their own time.
-
 
 
