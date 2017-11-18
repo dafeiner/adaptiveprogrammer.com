@@ -19,3 +19,5 @@ It makes use of a variety of open source projects including:
 Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
 Our recommended #1 training resource for professional developers is [Pluralsight](http://www.pluralsight.com).
+
+<a onclick="javascript:document.location='http://shareasale.com/r.cfm?b=971419&u=1227761&m=53701&urllink=&afftrack=';return false;" rel="nofollow" href="http://pluralsight.com">Pluralsight</a>
