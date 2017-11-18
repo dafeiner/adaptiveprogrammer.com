@@ -1,0 +1,18 @@
+Started building sites ...
+
+Built site for language en:
+0 draft content
+0 future content
+0 expired content
+4 regular pages created
+16 other pages created
+8 non-page files copied
+6 paginator pages created
+4 tags created
+0 categories created
+total in 17 ms
+Watching for changes in C:\SITES\adaptiveprogrammer.com\{data,content,layouts,static,themes}
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop

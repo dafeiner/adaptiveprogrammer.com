@@ -1,11 +1,11 @@
-#baseURL = "http://localhost:1313"
 baseURL = "http://adaptiveprogrammer.com"
 languageCode = "en"
 title = "Adaptive Programmer"
 theme = "hugo-nuo"
 enableRobotsTXT = true
-pygmentsuseclasses = true
-PygmentsCodeFences = true
+pygmentsUseClasses = false
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
 canonifyurls = true
 
 # Disqus Username
@@ -15,7 +15,7 @@ disqusShortname = "adaptive-programmer"
 googleAnalytics = "UA-XXXXXXXX-X"
 
 # Copyright of your post
-copyright = "© Copyright 2017 - Adaptive Programmer - Owned and operated by Peter Puglisi. "
+copyright = "© Copyright 2017 - AdaptiveProgrammer.com - Learn. Adapt. Build. Thrive."
 
 # Initial site menu, you can extend menu with content.
 [[menu.main]]
