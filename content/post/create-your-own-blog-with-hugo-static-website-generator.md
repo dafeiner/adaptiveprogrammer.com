@@ -72,6 +72,7 @@ static
 themes
 {{</highlight>}}
 
+
 ### Step 3 - Set up live reload for visual feedback while working on markdown context
 
 One of the things I love about Hugo is the fast live reload feature which is built right into Hugo.  
@@ -107,7 +108,8 @@ Press Ctrl+C to stop
 
 If I navigate to `http://localhost:1313/`, I can see site up and running on my machine. Now I can make changes to my site's content and see the rendered changes to my website virtually instantaneously. 
 
-## Step 4 - Setup the site's main configuratiion file `config.toml`
+
+### Step 4 - Setup the site's main configuratiion file `config.toml`
 
 * Here I just copied over the sample config file from `.\themes\hugo-nuo\exampleSite\config.toml` as a first step. The theme's github page at `https://github.com/laozhu/hugo-nuo` had some good documentation on how to get started with the theme.  If you choose a different theme, I suggest checking the theme's github page first for any instructions relevant to setting up that theme.
 
@@ -149,7 +151,7 @@ copyright = "© Copyright 2017 - AdaptiveProgrammer.com - Learn. Adapt. Build. T
   linkedin = "peterpuglisi"
 ```
 
-## Step 5 - Setup a Disqus Account and update the site configuration with the site's disqus name
+### Step 5 - Setup a Disqus Account and update the site configuration with the site's disqus name
 
 For this I just setup an account at [disqus.com](http://www.disqus.com).
 
@@ -164,7 +166,7 @@ Finally all I had to do was configure the disqus name highlighted above in the `
 disqusShortname = "adaptive-programmer"
 ```
 
-## Step 6 - Sign up to Netlify and setup the site configuration
+### Step 6 - Sign up to Netlify and setup the site configuration
 
 It didn't take long to understand why so many developers love Netlify. Basically Netlify just needs a link to your git repository along with some build commands and it will handle the rest.
 
@@ -180,7 +182,8 @@ Here's my setup for this blog which is pointing to the public Git repository for
 
 All other settings I left as default.
 
-## Step 7 - Setup build environment variables in Netlify
+
+### Step 7 - Setup build environment variables in Netlify
 
 This is where you can override any build environment variables in Netlify for controlling the build process. Here I just set `HUGO_VERSION` to `0.30` to ensure my website is built using the same version of Hugo as my local website.
 
