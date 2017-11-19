@@ -2,6 +2,7 @@
 title: "Up and Running with Git and VS Code"
 date: 2017-11-18T18:05:43+10:00
 author: "Peter Puglisi"
+cover: "/media/posts/up-and-running-with-git-and-vscode/cover.jpg"
 tags: ["Git", "VS Code"]
 ---
 
@@ -92,7 +93,7 @@ If you've accidently committed some changes to your local Git repository, you ca
 
 `Label (3)` - Select the `Undo Last Commit` command to rollback the last commit (Note: If you want to see what Git commands VS Code has sent to Git, just view the `OUTPUT` tab and filter by `Git`)
 
-If you're completely new to VS Code and Git and want to get up and running as quickly as possible, I wholeheartedly recommend the Udemy course `Git Beginner in VS Code`. I purchased this course myself and totally recommend it if you're new to Git and VS Code on Windows or even a Mac. The information covered in the course is practical,concise and covers the essentials of usnig Git and VS Code. The instructor's teaching style is very unique and he explains what you need to know to be effective and not everything this is to know.
+If you're completely new to VS Code and Git and want to get up and running as quickly as possible, I wholeheartedly recommend the Udemy course `Git Beginner in VS Code`. I purchased this course myself and totally recommend it if you're new to Git and VS Code on Windows or even a Mac. The information covered in the course is practical,concise and covers the essentials of usnig Git and VS Code. The instructor's teaching style is very unique and he explains what you need to know to be effective and not everything this is to know. The course also covers branching, merging, forking repositories and using Gists.
 
 [![Git Beginner in VS Code Online Course](/media/posts/up-and-running-with-git-and-vscode/udemy-git-vscode.png)](/out/git-beginner-in-vs-code)
 

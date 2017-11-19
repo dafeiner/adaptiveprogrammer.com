@@ -1,7 +1,7 @@
 ---
 title: "Create Your Own Blog With Hugo Static Website Generator"
 author: "Peter Puglisi"
-cover: "/img/cover.jpg"
+cover: "/media/posts/create-your-own-blog-with-hugo-static-website-generator/cover.jpg"
 tags: ["Hugo", "JAMStack"]
 date: 2017-11-04T13:08:29+10:00
 ---
