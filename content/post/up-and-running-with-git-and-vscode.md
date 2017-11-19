@@ -58,7 +58,7 @@ Note the status of each file is shown on the right as highlighted by the `(2)` l
 
 ### Tip 5 - Staging and unstaging changes 
 
-Staging changes is an intermediary step when you only want to commit some of your existing changes to the repository but not all of them. This can analogous to checking in some of your files to your local Git repository.
+Staging changes is an optional intermediary step when you only want to commit some of your existing changes to the repository but not all of them. This can analogous to checking in some of your files to your local Git repository.
 
 As an example, I'll stage one file to be committed to the database.
 
@@ -66,5 +66,40 @@ As an example, I'll stage one file to be committed to the database.
 
 `A` - indicate the file will be added to the Git repository in the next commit
 
-Note how this filw appears under a separate `STAGED CHANGES` section.
+Note how this file appears under a separate `STAGED CHANGES` section.
+
+In most cases when updating this blog I just want to commit all my recent edits so I generally don't stage anything and just commit everything in one batch.
+
+### Tip 6 - Click on the file in the `CHANGES` area to see differences made
+
+To see what changes you've made to local files
+
+`Label (1)` - Select the modified file from the `CHANGES` section
+
+`Label (2)` - Navigate through the differences showing up in the left and right file panes. As you can see the right pane clearly shows the additional content I've added to the blog post.
+
+![VS Code Git Difference](/media/posts/up-and-running-with-git-and-vscode/vscode-git-diffs.png)
+
+### Tip 7 - How to Undo or Rollback the last commit made in VS Code
+
+If you've accidently committed some changes to your local Git repository, you can undo these changes using the `Undo Last Commit` command:
+
+![VS Code undo Last Commit](/media/posts/up-and-running-with-git-and-vscode/vscode-git-undo-commit.png)
+
+`Label (1)` - Select the `Source Control` icon
+
+`Label (2)` - Select the `More` button to bring up the additonal Git operations that can be executed from within VS Code
+
+`Label (3)` - Select the `Undo Last Commit` command to rollback the last commit (Note: If you want to see what Git commands VS Code has sent to Git, just view the `OUTPUT` tab and filter by `Git`)
+
+If you're completely new to VS Code and Git and want to get up and running as quickly as possible, I wholeheartedly recommend the Udemy course `Git Beginner in VS Code`. I purchased this course myself and totally recommend it if you're new to Git and VS Code on Windows or even a Mac. The information covered in the course is practical,concise and covers the essentials of usnig Git and VS Code. The instructor's teaching style is very unique and he explains what you need to know to be effective and not everything this is to know.
+
+[![Git Beginner in VS Code Online Course](/media/posts/up-and-running-with-git-and-vscode/udemy-git-vscode.png)](/out/git-beginner-in-vs-code)
+
+
+
+
+
+
+
 

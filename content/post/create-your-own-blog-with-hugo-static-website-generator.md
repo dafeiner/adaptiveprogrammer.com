@@ -191,5 +191,4 @@ This is where you can override any build environment variables in Netlify for co
 ![Netlify Build Variables](/media/posts/create-your-own-blog-with-hugo-static-website-generator/netlify-build-variables.png)
 
 In my case this is all I needed to do to get the site up and running but Netlify allows more advanced control using a `netlify.toml` file added to the base of your Git repository. In the Netlify configuration file, you can specify build environment variables for different deploy contexts.  For more information about continuous deployment using Netlify, go [here](https://www.netlify.com/docs/continuous-deployment/). 
- 
 
