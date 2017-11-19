@@ -44,7 +44,27 @@ git config --global user.password "??????????"
 
 ### Tip 4: How to interact with Git from the VS Code menu
 
-
-Click on the icon labelled `(1)` below:
+If you click on the branch icon near the `(1)` label below, VS Code will bring up the Git status for files you've modified locally:
 
 ![VS Code Source Control](/media/posts/up-and-running-with-git-and-vscode/vscode-git-source-control.png)
+
+Note the status of each file is shown on the right as highlighted by the `(2)` label. We can see 3 types of status indiators - `U`, `D` and `M` where
+
+`U` - indicated untracked items in our working tree (i.e local workpace files). These are new files that Git has detected but not committed to the local repository as yet.
+
+`D` - indicated files that have been deleted from the local Git repository
+
+`M` - indicates files that been modified in my local workspace
+
+### Tip 5 - Staging and unstaging changes 
+
+Staging changes is an intermediary step when you only want to commit some of your existing changes to the repository but not all of them. This can analogous to checking in some of your files to your local Git repository.
+
+As an example, I'll stage one file to be committed to the database.
+
+![VS Code Git Staged](/media/posts/up-and-running-with-git-and-vscode/vscode-git-staged.png)
+
+`A` - indicate the file will be added to the Git repository in the next commit
+
+Note how this filw appears under a separate `STAGED CHANGES` section.
+

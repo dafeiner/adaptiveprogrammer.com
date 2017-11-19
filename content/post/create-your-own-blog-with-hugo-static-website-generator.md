@@ -1,8 +1,9 @@
 ---
 title: "Create Your Own Blog With Hugo Static Website Generator"
-date: 2017-11-04T13:08:29+10:00
 author: "Peter Puglisi"
+cover: "/img/cover.jpg"
 tags: ["Hugo", "JAMStack"]
+date: 2017-11-04T13:08:29+10:00
 ---
 
 ## How To Create Your own Blog With Hugo Website Generator
