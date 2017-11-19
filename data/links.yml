@@ -1,23 +1,30 @@
-01_chekun:
+01_chsakell:
   title: chsakell's blog
   link: https://chsakell.com/
   avatar: /media/links/chsakell.jpg
-  description: Senior Software Engineer - Microsoft MVP
+  description: chsakell - Senior Software Engineer - Microsoft MVP
 
-02_wangbo:
-  title: Boof Wang
-  link: http://boof.wang
-  avatar: /media/links/wangbo.jpg
-  description: Another full-stack developer
+02_simpleprogrammer:
+  title: Simple Programmer
+  link: http://simpleprogrammer.com
+  avatar: /media/links/simpleprogrammer.jpg
+  description: Simple Programmer - John Sonmez
 
-03_yuanxuxu:
-  title: Ryan's blog
-  link: https://yuanxuxu.com/
-  avatar: /media/links/yuanxuxu.jpg
-  description: A interesting developer
+03_troyhunt:
+  title: Troy Hunt's Blog
+  link: https://www.troyhunt.com/
+  avatar: /media/links/troyhunt.jpg
+  description: Pluralsight Author - Web Security Specialist
 
-04_candisheng:
-  title: Kan Disheng
-  link: http://www.kandisheng.com/
-  avatar: /media/links/kandisheng.jpg
-  description: A crazy developer
+04_damienbod:
+  title: Damien Bod's Blog
+  link: https://damienbod.com
+  avatar: /media/links/damienbod.jpg
+  description: Microsoft MVP
+
+05_andrasnemes:
+  title: Andras Nemes Blog
+  link: https://dotnetcodr.com
+  avatar: /media/links/dotnetcodr.jpg
+  description: Tips and tricks in C# .NET
+
