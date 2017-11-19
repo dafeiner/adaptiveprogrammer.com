@@ -30,18 +30,6 @@ copyright = "© Copyright 2017 - AdaptiveProgrammer.com - Learn. Adapt. Build. T
   identifier = "works"
   url = "https://github.com/laozhu"
 
-[[menu.main]]
-  name = "Recommended Courses"
-  weight = 20
-  identifier = "recommendedcourses"
-  url = "https://github.com/laozhu"
-
-[[menu.main]]
-  name = "Recommended Books"
-  weight = 20
-  identifier = "recommendedbooks"
-  url = "https://github.com/laozhu"
-
 # Add your own params here
 [params]
   author = "Peter Puglisi"
